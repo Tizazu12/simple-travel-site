@@ -1,0 +1,10 @@
+p {
+    font-family: serif;
+}
+.table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#tableHeader {
+    background-color: yellow;
+}
